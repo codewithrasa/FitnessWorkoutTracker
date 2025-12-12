@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bicep",
+    "muscle_group": "Upper",
+    "sets": 3,
+    "reps": 10,
+    "duration": 5,
+    "difficulty": 5,
+    "category": "General"
+  },
+  {
+    "name": "chest",
+    "muscle_group": "Chest",
+    "sets": 3,
+    "reps": 10,
+    "duration": 5,
+    "difficulty": 3,
+    "category": "General"
+  },
+  {
+    "name": "Jumping Jacks",
+    "muscle_group": "Full Body",
+    "sets": 2,
+    "reps": 30,
+    "duration": 5,
+    "difficulty": 2,
+    "category": "Cardio"
+  },
+  {
+    "name": "Leg",
+    "muscle_group": "Lower",
+    "sets": 3,
+    "reps": 10,
+    "duration": 5,
+    "difficulty": 8,
+    "category": "Core"
+  },
+  {
+    "name": "Plank",
+    "muscle_group": "Core",
+    "sets": 3,
+    "reps": 1,
+    "duration": 3,
+    "difficulty": 5,
+    "category": "Core"
+  },
+  {
+    "name": "Push-Up",
+    "muscle_group": "Chest",
+    "sets": 3,
+    "reps": 12,
+    "duration": 10,
+    "difficulty": 3,
+    "category": "Strength"
+  },
+  {
+    "name": "Squat",
+    "muscle_group": "Legs",
+    "sets": 4,
+    "reps": 15,
+    "duration": 15,
+    "difficulty": 4,
+    "category": "Strength"
+  },
+  {
+    "name": "Tricep",
+    "muscle_group": "Upper",
+    "sets": 3,
+    "reps": 15,
+    "duration": 5,
+    "difficulty": 7,
+    "category": "Strength"
+  }
+]
